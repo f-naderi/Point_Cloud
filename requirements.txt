@@ -1,0 +1,8 @@
+numpy
+matplotlib
+open3d
+pillow
+pyquaternion
+scikit-learn
+nuscenes-devkit
+jupyter
