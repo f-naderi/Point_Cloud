@@ -30,10 +30,10 @@ Point Cloud Processing
 ## Project Structure
 
 Point_Cloud/
-├── results                     # Point cloud processing outputs
-├── fusion_results              # Fusion output images
-├── Point_Cloud.ipynb           # Main Jupyter notebook
-└── requirements.txt            # Python dependencies
+├── results/                     # Point cloud processing outputs
+├── fusion_results/              # Fusion output images
+├── Point_Cloud.ipynb            # Main Jupyter notebook
+└── requirements.txt             # Python dependencies
 
 ## Installation
 
@@ -48,15 +48,15 @@ pip install -r requirements.txt
 
 ## Requirements
 
-· Python 3.10+
-· Matplotlib
-· NumPy
-. Open3D
-. Scikit-Learn
-. Pillow
-. PyQuaternion
-. NuScenes Devkit
-. Jupyter Notebook
+* Python 3.10+
+* Matplotlib
+* NumPy
+* Open3D
+* Scikit-Learn
+* Pillow
+* PyQuaternion
+* NuScenes Devkit
+* Jupyter Notebook
 
 
 ## References

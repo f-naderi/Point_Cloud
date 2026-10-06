@@ -1,7 +1,7 @@
 numpy
 matplotlib
 open3d
-pillow
+Pillow
 pyquaternion
 scikit-learn
 nuscenes-devkit
