@@ -65,6 +65,6 @@ pip install -r requirements.txt
 - Zhou, Q. Y., Park, J., & Koltun, V. (2018). Open3D: A modern library for 3D data processing. arXiv preprint arXiv:1801.09847.
 - Ester, M., Kriegel, H. P., Sander, J., & Xu, X. (1996, August). A density-based algorithm for discovering clusters in large spatial databases with noise. In kdd (Vol. 96, No. 34, pp. 226-231).
 - Bolles, R. C., & Fischler, M. A. (1981, August). A ransac-based approach to model fitting and its application to finding cylinders in range data. In Ijcai (Vol. 1981, pp. 637-643).
-- Sensor Fusion for Autonomous Driving
+- Merangolo, M. F. (2025). Sensor Fusion for Autonomous Driving (Doctoral dissertation, Politecnico di Torino).
 
 ```
