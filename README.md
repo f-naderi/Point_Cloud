@@ -61,10 +61,10 @@ pip install -r requirements.txt
 
 ## References
 
-- NuScenes Dataset — Caesar et al., 2020
-- Open3D — Zhou et al., 2018
-- DBSCAN — Ester et al., 1996
-- RANSAC — Fischler & Bolles, 1981
+- Caesar, H., Bankiti, V., Lang, A. H., Vora, S., Liong, V. E., Xu, Q., ... & Beijbom, O. (2020, June). nuscenes: A multimodal dataset for autonomous driving. In 2020 IEEE/CVF conference on computer vision and pattern recognition (CVPR) (pp. 11618-11628). IEEE.
+- Zhou, Q. Y., Park, J., & Koltun, V. (2018). Open3D: A modern library for 3D data processing. arXiv preprint arXiv:1801.09847.
+- Ester, M., Kriegel, H. P., Sander, J., & Xu, X. (1996, August). A density-based algorithm for discovering clusters in large spatial databases with noise. In kdd (Vol. 96, No. 34, pp. 226-231).
+- Bolles, R. C., & Fischler, M. A. (1981, August). A ransac-based approach to model fitting and its application to finding cylinders in range data. In Ijcai (Vol. 1981, pp. 637-643).
 - Sensor Fusion for Autonomous Driving
 
 ```
